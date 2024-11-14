@@ -1,5 +1,6 @@
 # Seja bem vindo, sou o Leandro :smile:
  + Estudante de Sistemas de Informação na PucMinas :desktop_computer:
+ + Trabalhando como Desenvolvedor de Software na Prefeitura Municipal de Betim 🎆
  + Sempre estudando e procurando evoluir :books:
 # Linguaguens/Ferramentas
 <div style="display: inline_block">
